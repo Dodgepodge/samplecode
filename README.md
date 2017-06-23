@@ -3,9 +3,9 @@ Here's where I put up some of the sample code I've written as a result of learni
 
 I'm a Product Manager by trade, and I've worked in the game industry and the enterprise technology industry doing QA, business development, game production, product management, team management and some UX work.
 
-Initially, I wasn't technical - I graduated with a degree in Psychology and I've self-learned (by reading, asking, doing) everything I know now about building products.
+Initially, I wasn't technical - I graduated with a degree in Psychology. Everything I know now about building products, I learned on my own - via asking, reading, and doing.
 
-Some technical things I've learned over the years (in order from first to last):
+Here are some technical things I've learned over the years (in order from first to last):
 - What FTP is and how to use an FTP client
 - SVN and version control
 - The difference between data and code, which helped me identify bugs and write bug reports easily early on in my career
