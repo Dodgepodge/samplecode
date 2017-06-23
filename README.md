@@ -22,6 +22,7 @@ Here are some technical things I've learned over the years (in order from first 
 - Product documentation in the form of specs can be very, very helpful
 - Payloads and formats people use - JSON, XML and how they're parsed by clients
 - Reading PHP code (because I didn't want to bother our engineers)
+- There is such an argument as REST vs SOAP (though others say they shouldn't be put against each other, because it's like apples vs oranges)
 - Back-end architectures (monolith vs microservices)
 - How database and UI design affect API design
 - SQL is an awesome way of pulling data to analyse it; in the right hands, it's more efficient than a spreadsheet because of the logic that can go into it
