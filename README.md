@@ -16,6 +16,7 @@ Here are some technical things I've learned over the years (in order from first 
 - HTML5 and CSS, using Bootstrap (but I'd really rather not do front-end coding)
 - Differences between iOS and Android behaviors, including but not limited to - gathering logs (TestFlight vs logcat), multitasking, multi-touching
 - Computer science basics (bits, bytes, 1s and 0s)
+- Programming requires different mindsets - making games is different from making web services and is different from making tools. I learned to respect that and not just generalise "Oh you're a programmer, so you can do X, Y, Z?"
 - Python
 - Swift
 - Product documentation in the form of specs can be very, very helpful
