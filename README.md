@@ -2,6 +2,8 @@
 
 _This was done 2 years ago. Why the lack of technical updates? I've worked in more corporate settings in the last ~2 years, where I've honed more than just product and tech. I've learned more perspectives and mindsets that I didn't have (or refused to think were helpful): business thinking, looking at ecosystems and working within them, partnerships._
 
+-------
+
 Here's where I put up some of the sample code I've written as a result of learning to code.
 
 I'm a Product Manager, and I've worked in the game industry and the enterprise technology industry doing QA, business development, game production, product management, team management and some UX work.
