@@ -1,3 +1,5 @@
+# In this project, I tried mocking up an API for a product I was working on -- the main goal was to understand what the technical team needed to do, so I could understand their timelines and possibilities within each sprint.
+
 from flask import Flask, abort
 import json
 
